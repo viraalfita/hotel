@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.text-light {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-gray {
+    background-color: #423F3E !important;
+}
+
+.text-gray {
+    color: #DBDBDB !important;
+}
+
+.bg-login {
+    background-image: linear-gradient(#FFBF9B,#B46060);
+}
+
+.bg-btn-daftar {
+    background-color: #FFF4E0;
+}
+
+.text-pink {
+    color: #B46060;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-grey {
+    color: #4D4D4D;
+}
+
+.bg-form {
+    background-color: #B46060;
+}

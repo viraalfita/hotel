@@ -1,0 +1,11 @@
+Admin
+username : admin
+password : admin1
+
+Resepsionis
+username : resepsionis
+password : resepsionis
+
+Tamu
+username : faisal
+password : faisal
